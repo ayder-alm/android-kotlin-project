@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TypicalApp</string>
+    <string name="btn_daily_image_demo">Launch daily image demo</string>
+    <string name="btn_mock_user_demo">Launch mock users demo</string>
+    <string name="btn_load_images">Load images</string>
+</resources>
